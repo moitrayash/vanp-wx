@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-12T09:10:13.544Z",
+ "generatedAt": "2026-06-12T12:35:11.380Z",
  "station": "VANP",
- "metar": "METAR VANP 120900Z 22014KT 4000 TS SCT020 FEW030CB BKN090 33/19 Q1003 TEMPO 3000 -TSRA",
+ "metar": "METAR VANP 121200Z 11006KT 0500 R32/1100 +TSRA SCT020 FEW030CB OVC090 23/22 Q1005 TEMPO 0300 +TSRA",
  "notams": [
   {
    "notamNumber": "G0351/26",
@@ -41,6 +41,16 @@
    "startDate": "04/19/2026 0343",
    "endDate": "07/17/2026 1830",
    "icaoMessage": "A0632/26 NOTAMN\r\nQ) VABF/QFAXX/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2604190343 C) 2607171830\r\nE) ALL ACFT AFTER LDG SHALL MAKE 180 DEG BACKTRACK\r\n   ON TURN PAD AT END OF RWY 14/32 ONLY",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A0869/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "06/12/2026 1100",
+   "startDate": "06/12/2026 1130",
+   "endDate": "06/30/2026 2359",
+   "icaoMessage": "A0869/26 NOTAMN\r\nQ) VABF/QOLAS/IV/B/AE/000/020/2054N07900E005\r\nA) VANP B) 2606121130 C) 2606302359\r\nE) OBSTACLE LIGHT ON TOP OF AKASHVANI TOWER\r\n   COORD 205344.018N 0785947.398E AT BUTIBORI\r\n   NEAR NAGPUR IS U/S.\r\n   TOP ELEVATION OF MAST 1692.39FT AMSL",
    "traditionalMessage": ""
   },
   {
