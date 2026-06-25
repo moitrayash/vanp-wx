@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-24T23:37:40.688Z",
+ "generatedAt": "2026-06-25T01:36:22.943Z",
  "station": "VANP",
- "metar": "METAR VANP 242330Z 23002KT 4000 BR SCT020 OVC080 25/24 Q1004 NOSIG",
+ "metar": "METAR VANP 250130Z 25004KT 5000 HZ SCT020 SCT100 26/23 Q1006 NOSIG",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -61,16 +61,6 @@
    "startDate": "03/30/2026 0800",
    "endDate": "06/29/2026 0800",
    "icaoMessage": "A0501/26 NOTAMN\nQ) VABF/QMXLT/IV/B/A/000/999/2106N07903E005\nA) VANP B) 2603300800 C) 2606290800\nE) PORTION OF TWY C1 BEYOND 400M FM INT OF RWY 14/32\n   TILL END OF TWY C2 IS RESTRICTED TO TOWING OF ACFT ONLY",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "G0550/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "05/06/2026 0711",
-   "startDate": "06/11/2026 0000",
-   "endDate": "06/24/2026 2359",
-   "icaoMessage": "G0550/26 NOTAMN\r\nQ) VABF/QFATT/IV/BO/A/000/999/2106N07903E005\r\nA) VANP B) 2606110000 C) 2606242359\r\nE) TRIGGER NOTAM - AIRAC AIP SUP 86/2026 WEF 11 JUN 2026.\r\nAD DATA.",
    "traditionalMessage": ""
   }
  ]
