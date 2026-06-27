@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-27T01:46:48.502Z",
+ "generatedAt": "2026-06-27T05:40:45.941Z",
  "station": "VANP",
- "metar": "METAR VANP 270130Z VRB02KT 5000 HZ FEW020 BKN100 27/24 Q1006 NOSIG",
+ "metar": "METAR VANP 270500Z 28002KT 5000 HZ FEW020 SCT100 33/23 Q1007 NOSIG",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -61,16 +61,6 @@
    "startDate": "03/30/2026 0800",
    "endDate": "06/29/2026 0800",
    "icaoMessage": "A0501/26 NOTAMN\nQ) VABF/QMXLT/IV/B/A/000/999/2106N07903E005\nA) VANP B) 2603300800 C) 2606290800\nE) PORTION OF TWY C1 BEYOND 400M FM INT OF RWY 14/32\n   TILL END OF TWY C2 IS RESTRICTED TO TOWING OF ACFT ONLY",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A0916/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "06/27/2026 0135",
-   "startDate": "06/27/2026 0030",
-   "endDate": "06/27/2026 0400",
-   "icaoMessage": "A0916/26 NOTAMN\r\nQ) VABF/QCBAS/IV/BO/AE/000/999/2105N07904E250\r\nA) VANP B) 2606270030 C) 2606270400\r\nE) INDORE ADS-B DATA NOT AVBL DUE MEDIA FAILURE.",
    "traditionalMessage": ""
   }
  ]
