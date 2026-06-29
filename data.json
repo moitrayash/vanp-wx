@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-29T06:59:40.879Z",
+ "generatedAt": "2026-06-29T12:05:15.048Z",
  "station": "VANP",
- "metar": "METAR VANP 290630Z 25008KT 5000 HZ SCT020 BKN100 33/24 Q1005 NOSIG",
+ "metar": "METAR VANP 291200Z 26004KT 3000 -TSRA SCT018 FEW030CB OVC090 26/24 Q1002 TEMPO 2000 -TSRA",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -51,16 +51,6 @@
    "startDate": "06/12/2026 1130",
    "endDate": "06/30/2026 2359",
    "icaoMessage": "A0869/26 NOTAMN\r\nQ) VABF/QOLAS/IV/B/AE/000/020/2054N07900E005\r\nA) VANP B) 2606121130 C) 2606302359\r\nE) OBSTACLE LIGHT ON TOP OF AKASHVANI TOWER\r\n   COORD 205344.018N 0785947.398E AT BUTIBORI\r\n   NEAR NAGPUR IS U/S.\r\n   TOP ELEVATION OF MAST 1692.39FT AMSL",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A0501/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "03/30/2026 0822",
-   "startDate": "03/30/2026 0800",
-   "endDate": "06/29/2026 0800",
-   "icaoMessage": "A0501/26 NOTAMN\nQ) VABF/QMXLT/IV/B/A/000/999/2106N07903E005\nA) VANP B) 2603300800 C) 2606290800\nE) PORTION OF TWY C1 BEYOND 400M FM INT OF RWY 14/32\n   TILL END OF TWY C2 IS RESTRICTED TO TOWING OF ACFT ONLY",
    "traditionalMessage": ""
   }
  ]
