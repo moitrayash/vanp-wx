@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-02T16:54:26.632Z",
+ "generatedAt": "2026-07-02T18:25:12.026Z",
  "station": "VANP",
- "metar": "METAR VANP 021630Z 22003KT 4000 BR FEW012 SCT018 OVC080 27/25 Q1004 NOSIG",
+ "metar": "METAR VANP 021800Z 22004KT 4000 -DZ FEW012 SCT018 FEW030CB OVC080 26/25 Q1004 TEMPO 3000 -RA",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -44,13 +44,13 @@
    "traditionalMessage": ""
   },
   {
-   "notamNumber": "A0968/26",
+   "notamNumber": "A0969/26",
    "facilityDesignator": "VANP",
    "featureName": "International",
-   "issueDate": "07/02/2026 1451",
-   "startDate": "07/02/2026 1430",
-   "endDate": "07/02/2026 1700",
-   "icaoMessage": "A0968/26 NOTAMN\r\nQ) VABF/QCBXX/IV/BO/AE/000/999/\r\nA) VANP B) 2607021430 C) 2607021700\r\nE) INDORE(VAID) ADS B DATA NOT AVBL DUE LINK FAILURE",
+   "issueDate": "07/02/2026 1703",
+   "startDate": "07/02/2026 1700",
+   "endDate": "07/03/2026 0500",
+   "icaoMessage": "A0969/26 NOTAMN\r\nQ) VABF/QCBXX/IV/BO/AE/000/999/\r\nA) VANP B) 2607021700 C) 2607030500\r\nE) INDORE(VAID) ADS B DATA NOT AVBL DUE LINK FAILURE",
    "traditionalMessage": ""
   }
  ]
