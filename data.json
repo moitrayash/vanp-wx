@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-02T04:33:18.791Z",
+ "generatedAt": "2026-07-02T07:54:01.871Z",
  "station": "VANP",
- "metar": "METAR VANP 020430Z 27007KT 4000 -RA FEW012 SCT018 OVC080 27/25 Q1004 NOSIG",
+ "metar": "METAR VANP 020730Z 27009KT 5000 HZ SCT012 BKN018 OVC080 28/24 Q1004 NOSIG",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -11,6 +11,26 @@
    "startDate": "06/11/2026 0000",
    "endDate": "PERM",
    "icaoMessage": "A0733/26 NOTAMN\r\nQ) VABF/QFAXX/IV/BO/A/000/999/2105N07904E005\r\nA) VANP B) 2606110000 C) PERM\r\nE) REF APDC IN SUP 86/2026. DESIGNATORS OF TWY \r\n   INTERSECTING RWY 14/32 AMD AS TWY B1 IN PLACE\r\n   OF TWY B AND TWY C1 IN PLACE OF TWY C",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A0962/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "07/02/2026 0728",
+   "startDate": "07/02/2026 0729",
+   "endDate": "07/02/2026 0930EST",
+   "icaoMessage": "A0962/26 NOTAMR A0958/26\r\nQ) VABF/QCBXX/IV/BO/AE/000/999/\r\nA) VANP B) 2607020729 C) 2607020930EST\r\nE) INDORE(VAID) AND JABALPUR(VAJB) ADS B DATA\r\n   NOT AVBL DUE LINK FAILURE",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A0963/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "07/02/2026 0733",
+   "startDate": "07/02/2026 0734",
+   "endDate": "07/02/2026 0930EST",
+   "icaoMessage": "A0963/26 NOTAMN\r\nQ) VABF/QCSXX/I/B/AE/000/999/\r\nA) VANP B) 2607020734 C) 2607020930EST\r\nE) AURANGABAD(VAAU) AND VISAKHAPATNAM(VOVZ) RADAR DATA\r\n   NOT AVBL DUE TO LINK FAILURE",
    "traditionalMessage": ""
   },
   {
@@ -41,26 +61,6 @@
    "startDate": "04/19/2026 0343",
    "endDate": "07/17/2026 1830",
    "icaoMessage": "A0632/26 NOTAMN\r\nQ) VABF/QFAXX/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2604190343 C) 2607171830\r\nE) ALL ACFT AFTER LDG SHALL MAKE 180 DEG BACKTRACK\r\n   ON TURN PAD AT END OF RWY 14/32 ONLY",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A0958/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "07/02/2026 0426",
-   "startDate": "07/02/2026 0427",
-   "endDate": "07/02/2026 0730",
-   "icaoMessage": "A0958/26 NOTAMR A0956/26\r\nQ) VABF/QCBXX/IV/BO/AE/000/999/\r\nA) VANP B) 2607020427 C) 2607020730\r\nE) INDORE(VAID) AND JABALPUR(VAJB) ADS B DATA\r\n   NOT AVBL DUE LINK FAILURE",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A0959/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "07/02/2026 0428",
-   "startDate": "07/02/2026 0428",
-   "endDate": "07/02/2026 0730",
-   "icaoMessage": "A0959/26 NOTAMR A0955/26\r\nQ) VABF/QCSXX/I/B/AE/000/999/\r\nA) VANP B) 2607020428 C) 2607020730\r\nE) AURANGABAD(VAAU) AND VISAKHAPATNAM(VOVZ) RADAR DATA\r\n   NOT AVBL DUE TO LINK FAILURE",
    "traditionalMessage": ""
   }
  ]
