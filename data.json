@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-02T12:32:27.151Z",
+ "generatedAt": "2026-07-02T14:57:00.307Z",
  "station": "VANP",
- "metar": "METAR VANP 021230Z 27005KT 4000 HZ FEW012 SCT018 OVC080 29/24 Q1002 NOSIG",
+ "metar": "METAR VANP 021430Z 22002KT 4000 BR FEW012 SCT018 OVC080 28/24 Q1003 NOSIG",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -41,6 +41,16 @@
    "startDate": "04/19/2026 0343",
    "endDate": "07/17/2026 1830",
    "icaoMessage": "A0632/26 NOTAMN\r\nQ) VABF/QFAXX/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2604190343 C) 2607171830\r\nE) ALL ACFT AFTER LDG SHALL MAKE 180 DEG BACKTRACK\r\n   ON TURN PAD AT END OF RWY 14/32 ONLY",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A0968/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "07/02/2026 1451",
+   "startDate": "07/02/2026 1430",
+   "endDate": "07/02/2026 1700",
+   "icaoMessage": "A0968/26 NOTAMN\r\nQ) VABF/QCBXX/IV/BO/AE/000/999/\r\nA) VANP B) 2607021430 C) 2607021700\r\nE) INDORE(VAID) ADS B DATA NOT AVBL DUE LINK FAILURE",
    "traditionalMessage": ""
   }
  ]
