@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-03T05:26:36.300Z",
+ "generatedAt": "2026-07-03T08:35:39.949Z",
  "station": "VANP",
- "metar": "METAR VANP 030500Z 25004KT 3000 -RA FEW012 SCT018 OVC080 26/25 Q1003 NOSIG",
+ "metar": "METAR VANP 030800Z 26006KT 3000 BR FEW012 SCT018 OVC080 27/25 Q1002 NOSIG",
  "notams": [
   {
    "notamNumber": "A0733/26",
@@ -14,13 +14,13 @@
    "traditionalMessage": ""
   },
   {
-   "notamNumber": "A0970/26",
+   "notamNumber": "A0974/26",
    "facilityDesignator": "VANP",
    "featureName": "International",
-   "issueDate": "07/03/2026 0520",
-   "startDate": "07/03/2026 0500",
-   "endDate": "07/03/2026 0800EST",
-   "icaoMessage": "(A0970/26 NOTAMN\r\nQ) VABF/QCBXX/I/BO/AE/000/999/2106N07903E250\r\nA) VANP B) 2607030500 C) 2607030800EST\r\nE) INDORE(VAID) ADS B DATA NOT AVBL DUE LINK FAILURE)\r\n\r\nDUPE",
+   "issueDate": "07/03/2026 0758",
+   "startDate": "07/03/2026 0800",
+   "endDate": "07/03/2026 1100EST",
+   "icaoMessage": "A0974/26 NOTAMR A0970/26\r\nQ) VABF/QCBXX/I/BO/AE/000/999/2106N07903E250\r\nA) VANP B) 2607030800 C) 2607031100EST\r\nE) INDORE(VAID) ADS B DATA NOT AVBL DUE LINK FAILURE",
    "traditionalMessage": ""
   },
   {
