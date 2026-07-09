@@ -1,18 +1,8 @@
 {
- "generatedAt": "2026-07-08T23:42:11.455Z",
+ "generatedAt": "2026-07-09T01:20:20.005Z",
  "station": "VANP",
- "metar": "METAR VANP 082330Z 20003KT 4000 BR FEW018 BKN090 25/24 Q1003 NOSIG",
+ "metar": "METAR VANP 090100Z 20003KT 4000 BR FEW018 BKN090 25/24 Q1004 NOSIG",
  "notams": [
-  {
-   "notamNumber": "A0733/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "05/11/2026 0851",
-   "startDate": "06/11/2026 0000",
-   "endDate": "PERM",
-   "icaoMessage": "A0733/26 NOTAMN\r\nQ) VABF/QFAXX/IV/BO/A/000/999/2105N07904E005\r\nA) VANP B) 2606110000 C) PERM\r\nE) REF APDC IN SUP 86/2026. DESIGNATORS OF TWY \r\n   INTERSECTING RWY 14/32 AMD AS TWY B1 IN PLACE\r\n   OF TWY B AND TWY C1 IN PLACE OF TWY C",
-   "traditionalMessage": ""
-  },
   {
    "notamNumber": "G0720/26",
    "facilityDesignator": "VANP",
