@@ -1,7 +1,47 @@
 {
- "generatedAt": "2026-07-14T14:51:55.865Z",
+ "generatedAt": "2026-07-14T16:15:33.879Z",
  "station": "VANP",
- "metar": "METAR VANP 141430Z 26004KT 5000 HZ SCT020 BKN100 31/19 Q1005 NOSIG",
- "notams": [],
- "notamError": "SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+ "metar": "METAR VANP 141600Z 27005KT 5000 HZ SCT020 BKN100 30/19 Q1006 NOSIG",
+ "notams": [
+  {
+   "notamNumber": "G0720/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "06/15/2026 0938",
+   "startDate": "06/15/2026 0938",
+   "endDate": "09/14/2026 2359",
+   "icaoMessage": "G0720/26 NOTAMR G0351/26\r\nQ) VABF/QPICH/I/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2606150938 C) 2609142359\r\nE) REFER EAIP INDIA PAGE AD 2 VANP 2-201 DATED 27 NOV 2025 REGARDING\r\nVOR RWY 14. FLW AMENDMENTS ARE MADE IN FINAL APCH SEGMENT.\r\n1. SDF 2 (3.3 D) AND OCA(H) WITH SDF 2 (3.3 D) WITHDRAWN TEMPO.\r\n2. OCA(H) WITH SDF 1 (4.5 D) AMENDED AS 1590(553).",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1013/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "07/08/2026 0943",
+   "startDate": "07/08/2026 0945",
+   "endDate": "09/08/2026 0900",
+   "icaoMessage": "A1013/26 NOTAMN\r\nQ) VABF/QMXLT/IV/B/A/000/999/2106N07903E005\r\nA) VANP B) 2607080945 C) 2609080900\r\nE) PORTION OF TWY C1 BEYOND 400M FM INT OF RWY 14/32\r\n   TILL END OF TWY C2 IS RESTRICTED TO TOWING OF ACFT ONLY",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A0817/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "05/30/2026 0654",
+   "startDate": "06/01/2026 0645",
+   "endDate": "08/31/2026 0845",
+   "icaoMessage": "A0817/26 NOTAMN\r\nQ) VABF/QMRLC/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2606010645 C) 2608310845\r\nD) 0645-0845 EXC SAT &amp; SUN\r\nE) RWY 14/32 NOT AVBL FOR OPS DUE MAINT WORK",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A0632/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "04/19/2026 0342",
+   "startDate": "04/19/2026 0343",
+   "endDate": "07/17/2026 1830",
+   "icaoMessage": "A0632/26 NOTAMN\r\nQ) VABF/QFAXX/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2604190343 C) 2607171830\r\nE) ALL ACFT AFTER LDG SHALL MAKE 180 DEG BACKTRACK\r\n   ON TURN PAD AT END OF RWY 14/32 ONLY",
+   "traditionalMessage": ""
+  }
+ ]
 }
