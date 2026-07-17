@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-17T12:00:50.570Z",
+ "generatedAt": "2026-07-17T13:59:16.603Z",
  "station": "VANP",
- "metar": "METAR VANP 171130Z 36003KT 4000 DZ FEW010 SCT018 OVC080 28/24 Q1005 NOSIG",
+ "metar": "METAR VANP 171330Z 02002KT 4000 RA FEW010 SCT018 OVC080 26/24 Q1006 TEMPO 2000 RA",
  "notams": [
+  {
+   "notamNumber": "A1073/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "07/17/2026 1330",
+   "startDate": "07/17/2026 1330",
+   "endDate": "10/16/2026 1830",
+   "icaoMessage": "A1073/26 NOTAMR A0632/26\r\nQ) VABF/QFAXX/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2607171330 C) 2610161830\r\nE) ALL ACFT AFTER LDG SHALL MAKE 180 DEG BACKTRACK\r\n   ON TURN PAD AT END OF RWY 14/32 ONLY",
+   "traditionalMessage": ""
+  },
   {
    "notamNumber": "G0720/26",
    "facilityDesignator": "VANP",
@@ -31,16 +41,6 @@
    "startDate": "06/01/2026 0645",
    "endDate": "08/31/2026 0845",
    "icaoMessage": "A0817/26 NOTAMN\r\nQ) VABF/QMRLC/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2606010645 C) 2608310845\r\nD) 0645-0845 EXC SAT &amp; SUN\r\nE) RWY 14/32 NOT AVBL FOR OPS DUE MAINT WORK",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A0632/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "04/19/2026 0342",
-   "startDate": "04/19/2026 0343",
-   "endDate": "07/17/2026 1830",
-   "icaoMessage": "A0632/26 NOTAMN\r\nQ) VABF/QFAXX/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2604190343 C) 2607171830\r\nE) ALL ACFT AFTER LDG SHALL MAKE 180 DEG BACKTRACK\r\n   ON TURN PAD AT END OF RWY 14/32 ONLY",
    "traditionalMessage": ""
   }
  ]
