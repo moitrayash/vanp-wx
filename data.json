@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-19T15:40:55.930Z",
+ "generatedAt": "2026-07-19T16:38:21.003Z",
  "station": "VANP",
- "metar": "METAR VANP 191530Z 00000KT 5000 HZ SCT020 BKN090 27/24 Q1006 NOSIG",
+ "metar": "METAR VANP 191630Z VRB01KT 4500 BR SCT020 FEW030TCU OVC090 26/24 Q1007 NOSIG",
  "notams": [
   {
    "notamNumber": "A1073/26",
@@ -51,16 +51,6 @@
    "startDate": "07/19/2026 1630",
    "endDate": "07/21/2026 1030",
    "icaoMessage": "A1081/26 NOTAMN\r\nQ) VABF/QMPLC/IV/BO/A/000/999/2106N07903E005\r\nA) VANP B) 2607191630 C) 2607211030\r\nE) CTC STAND 01 NOT AVBL DUE MAINT WORK",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1074/26",
-   "facilityDesignator": "VANP",
-   "featureName": "International",
-   "issueDate": "07/18/2026 1004",
-   "startDate": "07/18/2026 1000",
-   "endDate": "07/19/2026 1630",
-   "icaoMessage": "A1074/26 NOTAMN\r\nQ) VABF/QMPXX/IV/BO/A/000/999/2106N07903E005\r\nA) VANP B) 2607181000 C) 2607191630\r\nE) PAX BOARDING BRIDGE OF BAY NR 01 NOT AVBL\r\n   DUE MAINT WORK.",
    "traditionalMessage": ""
   }
  ]
