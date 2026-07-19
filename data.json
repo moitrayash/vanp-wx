@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-19T09:21:03.034Z",
+ "generatedAt": "2026-07-19T10:53:00.563Z",
  "station": "VANP",
- "metar": "METAR VANP 190900Z 22005KT 160V230 5000 HZ SCT020 FEW030TCU BKN090 30/25 Q1004 NOSIG",
+ "metar": "METAR VANP 191030Z 21004KT 170V270 5000 HZ FEW020 FEW030TCU BKN100 30/25 Q1004 NOSIG",
  "notams": [
   {
    "notamNumber": "A1073/26",
@@ -41,6 +41,16 @@
    "startDate": "06/01/2026 0645",
    "endDate": "08/31/2026 0845",
    "icaoMessage": "A0817/26 NOTAMN\r\nQ) VABF/QMRLC/IV/NBO/A/000/999/2106N07903E005\r\nA) VANP B) 2606010645 C) 2608310845\r\nD) 0645-0845 EXC SAT &amp; SUN\r\nE) RWY 14/32 NOT AVBL FOR OPS DUE MAINT WORK",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1081/26",
+   "facilityDesignator": "VANP",
+   "featureName": "International",
+   "issueDate": "07/19/2026 1034",
+   "startDate": "07/19/2026 1630",
+   "endDate": "07/21/2026 1030",
+   "icaoMessage": "A1081/26 NOTAMN\r\nQ) VABF/QMPLC/IV/BO/A/000/999/2106N07903E005\r\nA) VANP B) 2607191630 C) 2607211030\r\nE) CTC STAND 01 NOT AVBL DUE MAINT WORK",
    "traditionalMessage": ""
   },
   {
