@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-24T23:43:56.926Z",
+ "generatedAt": "2026-07-25T01:14:01.805Z",
  "station": "VANP",
- "metar": "METAR VANP 242330Z 00000KT 5000 BR FEW020 SCT100 24/23 Q1004 NOSIG",
+ "metar": "METAR VANP 250100Z 00000KT 5000 BR FEW100 24/24 Q1005 NOSIG",
  "notams": [
   {
    "notamNumber": "A1073/26",
