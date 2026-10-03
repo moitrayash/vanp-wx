@@ -1,7 +1,8 @@
 {
- "generatedAt": "2026-10-03T13:32:29.469Z",
+ "generatedAt": "2026-10-03T13:33:01.191Z",
  "station": "VANP",
- "metar": "METAR VANP 031330Z VRB02KT 5000 HZ FEW100 26/20 Q1015 NOSIG",
+ "metar": "",
+ "metarError": "TypeError: fetch failed",
  "notams": [],
  "notamError": "Error: NOTAM HTTP 403"
 }
