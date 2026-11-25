@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-25T03:35:19.997Z",
+ "generatedAt": "2026-11-25T13:26:28.815Z",
  "station": "VANP",
- "metar": "METAR VANP 250330Z 02003KT 3000 HZ NSC 22/11 Q1021 NOSIG",
+ "metar": "METAR VANP 251300Z VRB02KT 4000 HZ NSC 24/12 Q1016 NOSIG",
  "notams": [],
  "notamError": "Error: NOTAM HTTP 403"
 }
